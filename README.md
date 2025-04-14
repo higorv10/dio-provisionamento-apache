@@ -42,6 +42,7 @@ Este projeto contém um script de **Infraestrutura como Código (IaC)** para pro
 
 ## 💡 Observação
 🔹 A restauração de snapshot é simulada com um comentário no script.
+
 🔹 Este projeto é parte de uma atividade prática da trilha de Infraestrutura como Código.
 
 ## 📄 Licença
